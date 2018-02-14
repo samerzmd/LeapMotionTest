@@ -4,7 +4,7 @@ This is a sample code for getting some reading from the LeapMotion device
 
 ## Installation
 
-1) insatll [orion sdk](https://developer.leapmotion.com/get-started/).
+1) install [orion sdk](https://developer.leapmotion.com/get-started/).
 2) open the solution in visual studio.
 3) run
 
